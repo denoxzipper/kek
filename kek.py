@@ -76,7 +76,7 @@ async def getcookies(update: Update, context):
 # Main function to run the bot
 def main():
     # Your bot token from BotFather
-    TOKEN = "YOUR_TELEGRAM_BOT_API_TOKEN"
+    TOKEN = "8042833505:AAGS9hJYLmGNxNalYe0GsgTcrDPdGqFQuYg"
     
     # Create an Application object (dispatcher for handlers)
     application = Application.builder().token(TOKEN).build()
